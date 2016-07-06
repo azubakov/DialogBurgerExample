@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DialogBurgerExample</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="toppings">
+        <item>Lattice</item>
+        <item>Tomatoes</item>
+        <item>Onions</item>
+        <item>Maio</item>
+        <item>Ketshup</item>
+        <item>Extra</item>
+    </array>
+</resources>
